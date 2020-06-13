@@ -23,7 +23,7 @@ CREATE TABLE locations (
     cost INT(15, 0),
     address VARCHAR(30),
     rating INT(10,4)
-    FOREIGN KEY planetID REFERENCES planets(id),
+    FOREIGN KEY planetId REFERENCES planets(id),
 
 );
 
