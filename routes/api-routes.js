@@ -2,7 +2,9 @@
 const db = require("../models");
 
 module.exports = function(app) {
-  
+  app.get("/", function(req, res) {
+    res.json(path.join(__dirname, "index.html"));
+
   app.get("/api/planet/:id", (req,res) => {
     console.log();
     db.Planet.findAll({
