@@ -12753,7 +12753,7 @@ button.bg-gray-06:focus {
   margin-left: 35px; }
 
 .bg-pattern-01 {
-  background-image: url("./images/other/background-thedir-cover.jpg");
+  background-image: url("images/deathstar.png");
   background-size: cover;
   background-position: center; }
 
@@ -15875,7 +15875,7 @@ iframe {
     display: none !important; } }
 
 .home-main-intro {
-  background-image: url("images/other/banner.jpg");
+  background-image: url("images/endor.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
