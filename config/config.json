@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "Episode2DB",
-    "host": "127.0.0.1",
+    "username": "gy4jhzo5hwslbpuo",
+    "password": "ng7xzyekqnkzmqy6",
+    "database": "duol16i0y8jpolo3",
+    "host": "d9c88q3e09w6fdb2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
